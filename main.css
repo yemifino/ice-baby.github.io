@@ -7,7 +7,7 @@ body {
 }
 
 html {
-	background-color: #C7C7C7; /* For Show (Need to be removed) */
+	background-color: #FFFFFF; /* For Show (Need to be removed) */
 }
 
 * {
@@ -22,7 +22,6 @@ p {
 	line-height: 100%;
 	text-decoration: none;
 	color: #000;
-
 	transition: all 0.3s ease-out;
 }
 
@@ -50,7 +49,6 @@ a:hover {
 	background: linear-gradient(180deg, #FFFFFF 0%, #F0F0F0 100%);
 	overflow: hidden;
 	border-radius: 25px;
-
 	margin: 13px 26px 64px;
 }
 
@@ -65,7 +63,6 @@ a:hover {
 	display: flex;
 	justify-content: space-between;
 	font-size: 20px;
-
 	margin: 28px 13px 0 65px;
 }
 
@@ -94,7 +91,6 @@ a:hover {
 	font-weight: 400;
 	font-size: 35px;
 	line-height: 110%;
-
 	margin-left: 9px;
 	margin-top: 43px;
 }
@@ -104,7 +100,6 @@ a:hover {
 	width: 1326.36px;
 	height: 1326.36px;
 	transform: rotate(58.05deg);
-
 	left: -451.37px;
 	top: -67px;
 }
@@ -114,7 +109,6 @@ a:hover {
 .footer__nav {
 	display: flex;
 	justify-content: space-between;
-
 	margin: 126px 40px 34px 26px;
 }
 
